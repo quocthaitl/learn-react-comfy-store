@@ -11,8 +11,6 @@ import { useUserContext } from "../context/user_context";
 const Sidebar = () => {
 	const { isSidebarOpen, closeSidebar } = useProductsContext();
 
-	console.log(closeSidebar);
-
 	return (
 		<SidebarContainer>
 			<aside
