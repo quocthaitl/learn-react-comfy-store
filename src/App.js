@@ -39,7 +39,7 @@ function App() {
 					<Error />
 				</Route>
 			</Switch>
-			<Footer />
+      <Footer />
 		</Router>
 	);
 }
