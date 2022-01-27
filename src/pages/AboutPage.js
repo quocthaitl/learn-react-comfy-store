@@ -14,10 +14,12 @@ const AboutPage = () => {
 						<h2>our story</h2>
 						<div className="underline"></div>
 						<p>
-							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit
-							necessitatibus corporis quod, laudantium, dolores quia tempora
-							quae voluptatum sapiente nemo quas quaerat, architecto alias dolor
-							vel est tenetur cumque voluptatibus.
+							Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit
+							quaerat magni voluptatum qui ducimus aspernatur asperiores
+							adipisci fugiat saepe provident earum consequatur, incidunt unde
+							ipsum, perspiciatis quasi dolore quod ad exercitationem? Ad esse,
+							recusandae ipsam delectus modi natus tempore! Ipsum illo veniam
+							quis doloribus, a nisi aspernatur at error deserunt?
 						</p>
 					</div>
 				</article>
