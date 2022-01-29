@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const ProductImages = ({ images = [{ url: "" }] }) => {
 	const [mainImage, setMainImage] = useState(images[0]);
-	console.log(mainImage);
+
 	return (
 		<Wrapper>
 			<img src={mainImage.url} alt={mainImage.filename} className="main" />
