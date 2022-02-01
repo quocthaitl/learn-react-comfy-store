@@ -62,6 +62,10 @@ export const FilterProvider = ({ children }) => {
 		let name = e.target.name;
 		let value = e.target.value;
 
+		if (name === "text") {
+			value = value.toLowerCase();
+		}
+
 		if (name === "category") {
 			value = e.target.textContent;
 		}
