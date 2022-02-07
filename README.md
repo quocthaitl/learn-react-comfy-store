@@ -1,22 +1,23 @@
-## Notes
+# Comfy Sloth
 
-#### Older React Version
+## Introduction
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+This is an e-commerce app project built for an imaginary business, Comfy Sloth. The main purpose is for learning React
 
-#### Current React Version
+## Technologies
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+- HTML
+- CSS
+- Javascript
+- React.js
+- Styled-components
+- Git
+- Auth0
 
-#### Alternative fix
+## Project status
 
-.env file in the root
-FAST_REFRESH=FALSE
+Finished
+
+## Sources
+
+Instructor: John Smilga from Udemy
